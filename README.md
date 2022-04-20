@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andsupredo
 - 👀 I’m interested in general Technology
 - 🌱 I’m currently learning Python, Django, JS, React.
-- 💞️ I’m looking to collaborate on small projects.
+- 💞️ I’m looking to collaborate on small and big projects.
 - 📫 How to reach me https://www.linkedin.com/in/anderson-pedro-barbosa-de-sousa-7a3127114/
 
 <!---
